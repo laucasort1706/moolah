@@ -5,7 +5,7 @@
     { "src": "./icons/piggy-bank.png", "type": "image/png", "sizes": "192x192" },
     { "src": "./icons/piggy-bank.png", "type": "image/png", "sizes": "512x512" }
   ],
-  "start_url": "../src/index.html",
+  "start_url": "../index.html",
   "background_color": "#ffffff",
   "theme_color": "#0284c7",
   "display": "standalone",

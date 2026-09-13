@@ -1,9 +1,9 @@
 const CACHE_NAME = 'moolah-v1';
 const ASSETS_TO_CACHE = [
   './',
+  './index.html',
   './public/manifest.json',
   './src/assets/css/main.css',
-  './src/index.html',
   './src/js/app.js',
   './src/js/pwa/register-sw.js',
   './src/js/pwa/push-manager.js',
